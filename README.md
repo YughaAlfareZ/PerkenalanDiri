@@ -142,8 +142,7 @@ The fact is, i'm just an ordinary boy, with an ordinary life, and im so grateful
       <div class="hobby-card">Main game kadang² banget</div>
       <div class="hobby-card">Kadang buat syair atau poetry</div>
       <div class="hobby-card">Kadang writing random</div>
-    </div>
-class="hobby-card">Sepak Bola</div>
+      <div class="hobby-card">Sepak Bola</div>
     </div>
 
     <button class="button" onclick="alert('Terima kasih sudah berkunjung!👋')">Goodbye..👋</button>
